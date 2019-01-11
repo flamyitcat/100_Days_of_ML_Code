@@ -1,6 +1,6 @@
 # 100 Days of ML Code
 
-### Day 0: February 29, 2016 (Example 1)
+### Day 0: January 11, 2019
 
 **Today's Progress**: Open a repo for 100 days of ML Code challenge
 
