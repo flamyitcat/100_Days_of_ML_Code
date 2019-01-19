@@ -7,6 +7,15 @@
 **Thoughts:** I start use github to log my challenge
 
 **Link to work:** NIL
+
+### Day 1: January 18, 2019
+
+**Today's Progress**: Reading the math knowledge for deep learning
+
+**Thoughts:** Refresh my memory about linear algebra. Although keep reading some post about deep learning and research related to my project, still want to build the fundamental first.
+
+**Link to work:** NIL
+
 <!---
 ### Day 1: February 30, 2016 (Example 2) 
 
