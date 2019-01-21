@@ -8,7 +8,7 @@
 
 **Link to work:** NIL
 
-### Day 1: January 18, 2019
+### Day 1: January 19, 2019
 
 **Today's Progress**: Reading the math knowledge for deep learning
 
@@ -16,6 +16,13 @@
 
 **Link to work:** NIL
 
+### Day 2: January 21, 2019
+
+**Today's Progress**: Build a NN using no ML libraries
+
+**Thoughts:** THis is quite a good way to remember the structure and the process of a neural network
+
+**Link to work:** NIL
 <!---
 ### Day 1: February 30, 2016 (Example 2) 
 
