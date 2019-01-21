@@ -22,7 +22,7 @@
 
 **Thoughts:** THis is quite a good way to remember the structure and the process of a neural network
 
-**Link to work:** NIL
+**Link to work:** https://github.com/flamyitcat/Learning_Deep_Learning/tree/master/Make_a_Neural_Network
 <!---
 ### Day 1: February 30, 2016 (Example 2) 
 
